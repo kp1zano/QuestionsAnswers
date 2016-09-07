@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/home/karina/Documents/2016-2017/CST448/QuestionsAnswers/QuestionsAnswers/QuestionsAnswers/.metadata/.plugins/org.eclipse.jdt.core
